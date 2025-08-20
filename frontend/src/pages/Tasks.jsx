@@ -8,7 +8,7 @@ const Tasks = () => {
   const { user } = useAuth();
   const [tasks, setTasks] = useState([]);
   const [editingTask, setEditingTask] = useState(null);
-
+//Example
   useEffect(() => {
     const fetchTasks = async () => {
       try {
