@@ -9,14 +9,6 @@ A comprehensive web-based auction management system that enables users to create
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [License](#license)
-
 ## Features
 
 ### Core Functionality
@@ -66,7 +58,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-  https://github.com/AjaySivan-QUT/Auction-management-System.git 
+  'https://github.com/AjaySivan-QUT/Auction-management-System.git'
    ```
 
 2. **Install dependencies**
@@ -74,6 +66,7 @@ Before you begin, ensure you have the following installed:
    # For frontend
    cd frontend
    npm install
+   npm start
 
    # For backend (if separate)
    cd ../backend
