@@ -58,8 +58,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-  'https://github.com/AjaySivan-QUT/Auction-management-System.git'
-   ```
+   git clone https://github.com/AjaySivan-QUT/Auction-management-System.git
+   cd Auction-management-System
 
 2. **Install dependencies**
    ```bash
